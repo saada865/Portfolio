@@ -27,7 +27,7 @@ export const EXPERIENCES = [
     role: "Full Stack Intern",
     company: "Techorra",
     description: `Developed and maintained mobile applications using Flutter, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Flutter", "Node", "mongoDB"],
+    technologies: ["Flutter", "Node", "mongo"],
   },
   {
     year: "2021 - 2024",

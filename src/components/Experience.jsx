@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 const Experience = () => {
   return (
     <div
-      className=" lg:mt-0 border-b
+      className=" mt-10 border-b
    border-neutral-800 lg:mx-48 mb-6"
     >
       <div className=" flex flex-col text-center">

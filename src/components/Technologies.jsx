@@ -22,7 +22,7 @@ const iconVariants = (duration) => ({
 
 const Technologies = () => {
   return (
-    <div className=" lg:mb-20 border-t border-b border-neutral-800 pb-24">
+    <div className="lg:mb-20 border-t border-b border-neutral-800 pb-24">
       <div className="flex flex-col flex-wrap text-center justify-center items-center">
         <motion.h1
           whileInView={{ opacity: 1, y: 0 }}

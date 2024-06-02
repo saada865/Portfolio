@@ -4,13 +4,13 @@ import { motion } from "framer-motion";
 
 const Contact = () => {
   return (
-    <div className=" flex flex-col text-center">
+    <div className="flex flex-col text-center">
       <div className="text-neutral-200">
         <motion.div
           whileInView={{ opacity: 1, y: 0 }}
           initial={{ opacity: 0, y: -100 }}
           transition={{ duration: 0.5 }}
-          className="text-5xl mb-10"
+          className="text-5xl mb-10 my-5"
         >
           Get in Touch
         </motion.div>
