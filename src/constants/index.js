@@ -47,7 +47,7 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "Deepfake Detection - Kashf Sahte ",
+    title: "Deepfake Detection",
     link: "https://github.com/saada865",
     image: project1,
     description:
