@@ -52,14 +52,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "This is my FYP that I also launched as a Startup. The user can upload videos/audio onto a website/chrome-extension to check if the content is a DeepFake or not, the system also can report/control the spread of the content online..",
-    technologies: [
-      "React.js",
-      "Node.js",
-      "Express",
-      "MongoDB",
-      "Flask",
-      "Stripe",
-    ],
+    technologies: ["React.js", "Node.js", "Express", "MongoDB", "Flask"],
   },
   {
     title: "Social Media Site",
