@@ -1,6 +1,6 @@
 import React from "react";
 import { HERO_CONTENT } from "../constants";
-import img from "../assets/kevinRushProfile.png";
+import img from "../assets/my_image.jpg";
 import { motion } from "framer-motion";
 
 const container = (delay) => ({
@@ -45,15 +45,18 @@ const Hero = () => {
             {HERO_CONTENT}
           </motion.span>
         </div>
-        <div className="lg:w-1/2">
-          <motion.img
-            initial={{ x: 100, opacity: 0 }}
-            animate={{ x: 0, opacity: 1 }}
-            transition={{ duration: 1, delay: 1.2 }}
+        <motion.div
+          whileInView={{ opacity: 1, x: 0 }}
+          initial={{ opacity: 0, x: -100 }}
+          transition={{ duration: 0.5 }}
+          className=" my-2"
+        >
+          <img
+            className=" w-[500px] h-[550px] rounded-lg"
             src={img}
-            alt="img"
+            alt="image"
           />
-        </div>
+        </motion.div>
       </div>
     </div>
   );
