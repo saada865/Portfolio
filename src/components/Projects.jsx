@@ -27,7 +27,7 @@ const Projects = () => {
             >
               <a href={item.link}>
                 <img
-                  className=" hidden lg:flex lg:w-2/6 m-3"
+                  className=" hidden lg:block lg:w-2/6 m-3"
                   src={item.image}
                   alt=""
                 />
