@@ -26,11 +26,7 @@ const Projects = () => {
               className="lg:w-1/2"
             >
               <a href={item.link}>
-                <img
-                  className=" sm:w-1/4 lg:w-2/6 m-3"
-                  src={item.image}
-                  alt=""
-                />
+                <img className=" w-2/12 lg:w-2/6 m-3" src={item.image} alt="" />
               </a>
             </motion.div>
             <motion.div
