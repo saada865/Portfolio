@@ -13,7 +13,7 @@ export const EXPERIENCES = [
     role: "Bachelors in Software Engineering",
     company: "Comsats University Islamabad CGPA - 3.17",
     description: `During my bachelor's I gained a comprehensive understanding of web development, creating dynamic and responsive websites. Algorithms and data structures were key areas of focus, enhancing my problem-solving skills. I mastered object-oriented programming (OOP). Additionally, I developed proficiency in building and integrating APIs I also devled into topics, such as database management, operating systems.`,
-    technologies: ["DSA", "OOP", "Databases", "Algorithms"],
+    technologies: ["DSA", "OOP", "Databases"],
   },
   {
     year: "2023 - 2024",
@@ -27,14 +27,7 @@ export const EXPERIENCES = [
     role: "Full Stack Intern",
     company: "Techorra",
     description: `Developed and maintained mobile applications using Flutter, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: [
-      "Flutter",
-      "JS",
-      "Node.js",
-      "RestAPI",
-      "mongoDB",
-      "Firebase",
-    ],
+    technologies: ["Flutter", "Node.js", "mongoDB"],
   },
   {
     year: "2021 - 2024",
