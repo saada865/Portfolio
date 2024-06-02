@@ -20,14 +20,14 @@ export const EXPERIENCES = [
     role: "Founder/Developer",
     company: "Kashf Sahte - NSTP",
     description: `This was my FYP that I had launched as a startup in collaboration with NSTP and Pakistan Air Force. I Designed and developed user interfaces for web applications using and React. Worked in backend development to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["React.js", "Node.js", "RestAPI", "mongoDB"],
+    technologies: ["React", "Node", "Rest", "mongo"],
   },
   {
     year: "2021 - 2022",
     role: "Full Stack Intern",
     company: "Techorra",
     description: `Developed and maintained mobile applications using Flutter, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Flutter", "Node.js", "mongoDB"],
+    technologies: ["Flutter", "Node", "mongoDB"],
   },
   {
     year: "2021 - 2024",
