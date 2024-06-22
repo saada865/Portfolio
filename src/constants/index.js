@@ -40,28 +40,28 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "Deepfake Detection",
-    link: "https://github.com/saada865",
-    image: project1,
-    description:
-      "This is my FYP that I also launched as a Startup. The user can upload videos/audio onto a website/chrome-extension to check if the content is a DeepFake or not, the system also can report/control the spread of the content online..",
-    technologies: ["React.js", "Node.js", "MongoDB", "Flask"],
-  },
-  {
     title: "React Brand Website",
-    image: project2,
     link: "https://brand-website-sand.vercel.app/",
-    description: "This is a website for a brand that I built myself.",
+    image: project1,
+    description: "  This is a website for a brand that I built myself.",
     technologies: ["React.js", "TailwindCSS", "Javascript"],
   },
   {
     title: "Landing Page",
-    image: project3,
-    link: "https://landing-page-peach-eta.vercel.app/",
+    image: project4,
+    link: " https://landing-page-peach-eta.vercel.app/",
     description:
-      "This is a practice project I completed, showcasing a modern landing page built using React, Tailwind CSS, and Lucide. The project demonstrates my ability to utilize frameworks and libraries to create a visually appealing and highly functional user interface.",
-
+      " This is a practice project I completed, showcasing a modern landing page built using React, Tailwind CSS, and Lucide. The project demonstrates my ability to utilize frameworks and libraries to create a visually appealing and highly functional user interface.",
     technologies: ["React.js", "TailwindCSS", "Lucide"],
+  },
+  {
+    title: "Deepfake Detection",
+    image: project3,
+    link: "https://github.com/saada865",
+    description:
+      "This is my FYP that I also launched as a Startup. The user can upload videos/audio onto a website/chrome-extension to check if the content is a DeepFake or not, the system also can report/control the spread of the content online. ",
+
+    technologies: ["React.js", "Node.js", "MongoDB", "Flask"],
   },
   {
     title: "Netflix Clone",
