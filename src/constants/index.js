@@ -52,7 +52,7 @@ export const PROJECTS = [
     image: project2,
     link: "brand-website-sand.vercel.app",
     description: "This is a website for a brand that I built myself.",
-    technologies: ["React.js", "TailwindCSS", "JS"],
+    technologies: ["React.js", "TailwindCSS", "Javascript"],
   },
   {
     title: "Landing Page",
