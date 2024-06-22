@@ -48,7 +48,7 @@ export const PROJECTS = [
     technologies: ["React.js", "Node.js", "MongoDB", "Flask"],
   },
   {
-    title: "Brand Website",
+    title: "React Brand Website",
     image: project2,
     link: "https://brand-website-sand.vercel.app/",
     description: "This is a website for a brand that I built myself.",
