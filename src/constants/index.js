@@ -50,14 +50,14 @@ export const PROJECTS = [
   {
     title: "Brand Website",
     image: project2,
-    link: "brand-website-sand.vercel.app",
+    link: "https://brand-website-sand.vercel.app/",
     description: "This is a website for a brand that I built myself.",
     technologies: ["React.js", "TailwindCSS", "Javascript"],
   },
   {
     title: "Landing Page",
     image: project3,
-    link: "landing-page-peach-eta.vercel.app",
+    link: "https://landing-page-peach-eta.vercel.app/",
     description:
       "This is a practice project I completed, showcasing a modern landing page built using React, Tailwind CSS, and Lucide. The project demonstrates my ability to utilize frameworks and libraries to create a visually appealing and highly functional user interface.",
 
