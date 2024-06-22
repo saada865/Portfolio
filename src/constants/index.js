@@ -48,12 +48,11 @@ export const PROJECTS = [
     technologies: ["React.js", "Node.js", "MongoDB", "Flask"],
   },
   {
-    title: "Social Media Site",
+    title: "Brand Website",
     image: project2,
-    link: "https://github.com/saada865/Socailmedia_Website-React-MaterialUI",
-    description:
-      "This is a social media website's frontend, built using React and Material UI. The project leverages React's component-based architecture for dynamic and efficient rendering, while Material UI ensures a sleek and consistent design.",
-    technologies: ["React.js", "MaterialUI", "CSS"],
+    link: "brand-website-sand.vercel.app",
+    description: "This is a website for a brand that I built myself.",
+    technologies: ["React.js", "TailwindCSS", "JS"],
   },
   {
     title: "Landing Page",
