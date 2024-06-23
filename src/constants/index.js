@@ -40,10 +40,11 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "React Brand Website",
+    title: "Brand Website",
     link: "https://brand-website-sand.vercel.app/",
-    image: project1,
-    description: "  This is a website for a brand that I built myself.",
+    image: project3,
+    description:
+      "This website showcases my expertise in crafting highly functional web experiences. This is a project that not only demonstrates my ability to create intricate websites but also my proficiency in utilizing modern web development tools.",
     technologies: ["React.js", "TailwindCSS", "Javascript"],
   },
   {
