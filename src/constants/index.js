@@ -56,7 +56,7 @@ export const PROJECTS = [
     technologies: ["React.js", "TailwindCSS", "Lucide"],
   },
   {
-    title: "Deepfake Detection",
+    title: "Deepfake Detection (Website + Extension)",
     image: project3,
     link: "https://github.com/saada865",
     description:
@@ -65,7 +65,7 @@ export const PROJECTS = [
     technologies: ["React.js", "Node.js", "MongoDB", "Flask"],
   },
   {
-    title: "Canvix",
+    title: "Canvix Website",
     image: project4,
     link: "https://canvix-hazel.vercel.app/  ",
     description:
