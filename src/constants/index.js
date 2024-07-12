@@ -65,12 +65,12 @@ export const PROJECTS = [
     technologies: ["React.js", "Node.js", "MongoDB", "Flask"],
   },
   {
-    title: "Netflix Clone",
+    title: "Canvix",
     image: project4,
-    link: "https://github.com/saada865/Netflix_Clone_UI  ",
+    link: "https://canvix-hazel.vercel.app/  ",
     description:
-      "This is a Netflix clone, focusing on replicating it's visual design and quality. This project involved a responsive layout, ensuring a seamless user experience across devices. I implemented features such as a navigation bar, movie posters, and a carousel.",
-    technologies: ["HTML", "CSS"],
+      "This is a website for a client, focusing on it's visual design and quality. This project involved a responsive layout, ensuring a seamless user experience across devices. I implemented features such as a navigation bar, movie posters, and a carousel.",
+    technologies: ["React.js", "TailwindCSS"],
   },
 ];
 
