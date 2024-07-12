@@ -36,6 +36,13 @@ export const EXPERIENCES = [
     description: `Lead the hosting team at the Industrial Liason Cell at Comsats University Islamabad, was incharge of organizing the FYP & Careers Fair at Comsats for 2 years, worked with 100+ volunteers and a large team and organized multiple events succesfully.`,
     technologies: ["Team Lead", "Public Speaking", "Event Organization"],
   },
+  {
+    year: "2024 - 2024",
+    role: "React Intern",
+    company: "YoungDevs",
+    description: `Developed websites using React.js, TailwindCSS, and MaterialUI. Designed and implemented modern websites. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
+    technologies: ["Team Lead", "Public Speaking", "Event Organization"],
+  },
 ];
 
 export const PROJECTS = [
