@@ -39,7 +39,11 @@ const Projects = () => {
               transition={{ duration: 1 }}
               className="flex flex-col w-1/2 "
             >
-              <div className="text-sm text-neutral-300 my-1">{item.title}</div>
+              <a href={item.link}>
+                <div className="text-sm text-neutral-300 my-1">
+                  {item.title}
+                </div>
+              </a>
               <div className="text-sm text-neutral-500 my-1">
                 {item.description}
               </div>
