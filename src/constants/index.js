@@ -34,7 +34,7 @@ export const EXPERIENCES = [
     role: "React Intern",
     company: "YoungDevs",
     description: `Developed websites using React.js, TailwindCSS, and MaterialUI. Designed and implemented modern websites. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["React", "TailwindCSS"],
+    technologies: ["React", "TailwindCSS", "MaterialUI"],
   },
   {
     year: "2021 - 2024",
