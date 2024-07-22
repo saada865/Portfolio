@@ -79,6 +79,14 @@ export const PROJECTS = [
       "This is a website for a client, focusing on it's visual design and quality. This project involved a responsive layout, ensuring a seamless user experience across devices. I implemented features such as a navigation bar, movie posters, and a carousel.",
     technologies: ["React.js", "TailwindCSS"],
   },
+  {
+    title: "Starbucks Clone",
+    image: project4,
+    link: "https://starbucks-clone-eight-kappa.vercel.app/",
+    description:
+      "This is a website for my practice, it showcases my capabilities in Web Development",
+    technologies: ["React.js", "TailwindCSS"],
+  },
 ];
 
 export const CONTACT = {
