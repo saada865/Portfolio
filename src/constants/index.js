@@ -81,7 +81,7 @@ export const PROJECTS = [
   },
   {
     title: "Starbucks Clone",
-    image: project4,
+    image: project1,
     link: "https://starbucks-clone-eight-kappa.vercel.app/",
     description:
       "This is a website for my practice, it showcases my capabilities in Web Development",
