@@ -16,7 +16,7 @@ const Hero = () => {
   return (
     <div className="   lg:mb-20 ">
       <div className="flex flex-wrap ">
-        <div className="mt-10 mb-10 w-full flex flex-col lg:w-1/2 text-left pr-8">
+        <div className="mt-10 mb-10 w-full flex flex-col  text-left pr-8">
           <motion.h1
             variants={container(0)}
             initial="hidden"
