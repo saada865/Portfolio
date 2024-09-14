@@ -33,7 +33,7 @@ export const EXPERIENCES = [
     year: "2023 - 2024",
     role: "Founder/Developer",
     company: "Kashf Sahte - NSTP",
-    description: `This was my FYP that I had launched as a startup in collaboration with NSTP and Pakistan Air Force. I Designed and developed user interfaces for web applications using and React. Worked in backend development to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
+    description: `This was my FYP that I had launched as a startup in collaboration with NSTP and Ignite. I Designed and developed user interfaces for web applications using and React. Worked in backend development to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
     technologies: ["React", "Node", "Rest", "mongo"],
   },
   {
@@ -41,13 +41,13 @@ export const EXPERIENCES = [
     role: "Full Stack Intern",
     company: "Techorra",
     description: `Developed and maintained mobile applications using Flutter, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Flutter", "Node", "mongo"],
+    technologies: ["Flutter", "Node", "Sql"],
   },
   {
     year: "2022 - 2023",
     role: "Hosting Team Lead",
     company: "ILC - Comsats University Islamabad",
-    description: `Lead the hosting team at the Industrial Liason Cell at Comsats University Islamabad, was incharge of organizing the FYP & Careers Fair at Comsats for 2 years, worked with 100+ volunteers and a large team and organized multiple events succesfully.`,
+    description: `Led a team of 10+ members in managing and hosting events, overseeing event management, and providing comprehensive volunteer training.`,
     technologies: ["Team Lead", "Public Speaking", "Event Organization"],
   },
 ];
