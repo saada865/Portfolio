@@ -55,11 +55,11 @@ export const PROJECTS = [
     technologies: ["React.js", "TailwindCSS", "Javascript"],
   },
   {
-    title: "Landing Page",
+    title: "Brand Wesbite",
     image: project2,
-    link: " https://landing-page-peach-eta.vercel.app/",
+    link: "https://bizconnect-solutions2.vercel.app/",
     description:
-      " This is a practice project I completed, showcasing a modern landing page built using React, Tailwind CSS, and Lucide. The project demonstrates my ability to utilize frameworks and libraries to create a visually appealing and highly functional user interface.",
+      "This is a practice project I made over a weekend, I was inspired to make a sleek yet modern design and this is what I came up with",
     technologies: ["React.js", "TailwindCSS", "Lucide"],
   },
   {
@@ -78,6 +78,14 @@ export const PROJECTS = [
     description:
       "This is a website for a client, focusing on it's visual design and quality. This project involved a responsive layout, ensuring a seamless user experience across devices. I implemented features such as a navigation bar, movie posters, and a carousel.",
     technologies: ["React.js", "TailwindCSS"],
+  },
+  {
+    title: "Landing Page",
+    image: project2,
+    link: " https://landing-page-peach-eta.vercel.app/",
+    description:
+      " This is a practice project I completed, showcasing a modern landing page built using React, Tailwind CSS, and Lucide. The project demonstrates my ability to utilize frameworks and libraries to create a visually appealing and highly functional user interface.",
+    technologies: ["React.js", "TailwindCSS", "Lucide"],
   },
   {
     title: "Starbucks Clone",
