@@ -16,6 +16,20 @@ export const EXPERIENCES = [
     technologies: ["DSA", "OOP", "Databases"],
   },
   {
+    year: "2024 - 2024",
+    role: "Software Engineer",
+    company: "Semexsoft",
+    description: `In this role I developed RESTful APIs, able to support 500 concurrent connections per second, by leveraging Flask. Designed and implemented database schemas with MySQL Workbench and SQL, ensuring data integrity.`,
+    technologies: ["Python", "Node", "Api", "Sql"],
+  },
+  {
+    year: "2024 - 2024",
+    role: "Software Developer Intern",
+    company: "Algoryc",
+    description: `I resolved critical bugs utilizing debugging techniques, resulting in a 50% decrease in reported bugs and improved application stability. Implemented backend functionalities encompassing API integration and pipeline management, resulting in enhanced system functionality.`,
+    technologies: ["Python", "GenAI", "Sql"],
+  },
+  {
     year: "2023 - 2024",
     role: "Founder/Developer",
     company: "Kashf Sahte - NSTP",
@@ -30,14 +44,7 @@ export const EXPERIENCES = [
     technologies: ["Flutter", "Node", "mongo"],
   },
   {
-    year: "2024 - 2024",
-    role: "React Intern",
-    company: "YoungDevs",
-    description: `Developed websites using React.js, TailwindCSS, and MaterialUI. Designed and implemented modern websites. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["React", "TailwindCSS", "MaterialUI"],
-  },
-  {
-    year: "2021 - 2024",
+    year: "2022 - 2023",
     role: "Hosting Team Lead",
     company: "ILC - Comsats University Islamabad",
     description: `Lead the hosting team at the Industrial Liason Cell at Comsats University Islamabad, was incharge of organizing the FYP & Careers Fair at Comsats for 2 years, worked with 100+ volunteers and a large team and organized multiple events succesfully.`,
