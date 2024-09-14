@@ -1,6 +1,6 @@
 import React from "react";
 import { HERO_CONTENT } from "../constants";
-import img from "../assets/my_image.jpg";
+// import img from "../assets/my_image.jpg";
 import { motion } from "framer-motion";
 
 const container = (delay) => ({
@@ -50,13 +50,7 @@ const Hero = () => {
           initial={{ opacity: 0, x: -100 }}
           transition={{ duration: 0.5 }}
           className=" my-2"
-        >
-          <img
-            className=" w-[500px] h-[600px] rounded-lg"
-            src={img}
-            alt="image"
-          />
-        </motion.div>
+        ></motion.div>
       </div>
     </div>
   );
