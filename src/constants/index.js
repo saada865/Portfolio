@@ -47,11 +47,11 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "Brand Website",
-    link: "https://brand-website-sand.vercel.app/",
+    title: "Client Website - Bizconnect Solutions",
+    link: "https://bizconnect.solutions/",
     image: project1,
     description:
-      "This website showcases my expertise in crafting highly functional web experiences. This is a project that not only demonstrates my ability to create intricate websites but also my proficiency in utilizing modern web development tools.",
+      "This website is built for a client, namely Bizconnect solutions. This is a project that utilizes a custom design and has been polished according to client requirements.",
     technologies: ["React.js", "TailwindCSS", "Javascript"],
   },
   {
