@@ -72,7 +72,7 @@ export const PROJECTS = [
   {
     title: "Deepfake Detection (Website + Extension)",
     image: project3,
-    link: "https://final-year-project-two.vercel.app/",
+    link: "https://www.youtube.com/watch?v=zDZOTekl8RY&t=135s",
     description:
       "This is my FYP that I also launched as a Startup. The user can upload videos/audio onto a website/chrome-extension to check if the content is a DeepFake or not, the system also can report/control the spread of the content online. ",
 
